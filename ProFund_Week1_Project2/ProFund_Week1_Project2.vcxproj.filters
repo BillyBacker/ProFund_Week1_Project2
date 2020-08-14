@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\prime.cpp">
+    <ClCompile Include="prime.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
