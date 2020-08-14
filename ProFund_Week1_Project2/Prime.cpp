@@ -1,4 +1,4 @@
-#include<stdio.h>
+﻿#include<stdio.h>
 bool prime(int In);
 
 int main() {
@@ -15,7 +15,7 @@ int main() {
 	}
 }
 
-bool prime(int In) {
+bool prime(int In) { //ใช้ตรวจว่าเลขที่ได้รับมาเป็นจำนวนเฉพาะหรือไม่
 	int i = 1;
 	while (true)
 	{
